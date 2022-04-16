@@ -10,3 +10,10 @@ The code in the python file is not exactly what he has although he essentially s
 After contacting multiple users banned from the BitCrypt discord server, they have all said the same thing: it's a scam.
 
 Do what you please with the code given.
+
+
+Some other repos which do the same type of stuff:
+https://github.com/Isaacdelly/Plutus
+https://github.com/adrijano/Bitcoin-wallet-cracker
+https://github.com/vlnahp/Btcbf
+https://github.com/aryainjas/Microllect
