@@ -12,8 +12,8 @@ After contacting multiple users banned from the BitCrypt discord server, they ha
 Do what you please with the code given.
 
 
-Some other repos which do the same type of stuff:
-https://github.com/Isaacdelly/Plutus
-https://github.com/adrijano/Bitcoin-wallet-cracker
-https://github.com/vlnahp/Btcbf
-https://github.com/aryainjas/Microllect
+Some other repos which do the same type of stuff:<br>
+https://github.com/Isaacdelly/Plutus <br>
+https://github.com/adrijano/Bitcoin-wallet-cracker<br>
+https://github.com/vlnahp/Btcbf<br>
+https://github.com/aryainjas/Microllect<br>
